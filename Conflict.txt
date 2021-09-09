@@ -1,1 +1,2 @@
 Conflict on local commit three
+test merge inline
